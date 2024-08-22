@@ -1,0 +1,43 @@
+{
+    "_class": "Software",
+    "alias": "https://github.com/LorenzoCorgnati/HFR-TT_workshop_ROW2024_training_JupyterNotebook",
+    "abstract": "Python3-based Jupyter notebook for testing the processing and QC parameters for the operational workflow of the European HFR Node.",
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "created": "2024-07-30",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Lorenzo Corgnati <lorenzo.corgnati@sp.ismar.cnr.it>"
+        }
+    ],
+    "description": "Python3-based Jupyter notebook providing basic routines for testing the processing and QC parameters for the operational workflow of the European HFR Node.",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://github.com/LorenzoCorgnati/HFR-TT_workshop_ROW2024_training_JupyterNotebook"
+    },
+    "downloadURL": "https://github.com/LorenzoCorgnati/HFR-TT_workshop_ROW2024_training_JupyterNotebook/archive/refs/heads/main.zip",
+    "keywords": ["python","netcdf","physical-oceanography","ocean-sciences","hf-radar","data-preservation","jerico-ri","jupyter notebook"],
+    "language": ["English"],
+    "license": "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.",
+    "modified": "2024-07-30",
+    "name": "HFR-TT_workshop_ROW2024_training_JupyterNotebook",
+    "organization": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/134"
+    },
+    "published": "2024-08-22",
+    "programming_language": ["PYTHON"],
+    "url": "https://github.com/LorenzoCorgnati/HFR-TT_workshop_ROW2024_training_JupyterNotebook",
+    "version": "v1.0"
+}

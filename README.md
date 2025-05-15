@@ -22,7 +22,7 @@ The required packages are:
 
 
 Cite as:
-Lorenzo Corgnati. (2024). HFR-TT_workshop_ROW2024_training_JupyterNotebook. DOI to be assigned.
+Lorenzo Corgnati. (2024). HFR-TT_workshop_ROW2024_training_JupyterNotebook. DOI: 10.5281/zenodo.15425689
 
 
 Author: Lorenzo Corgnati
